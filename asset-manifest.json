@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/billcalc/static/css/main.e4de8842.chunk.css",
+    "main.js": "/billcalc/static/js/main.0f7babb9.chunk.js",
+    "main.js.map": "/billcalc/static/js/main.0f7babb9.chunk.js.map",
+    "runtime-main.js": "/billcalc/static/js/runtime-main.589096aa.js",
+    "runtime-main.js.map": "/billcalc/static/js/runtime-main.589096aa.js.map",
+    "static/js/2.6d8c3000.chunk.js": "/billcalc/static/js/2.6d8c3000.chunk.js",
+    "static/js/2.6d8c3000.chunk.js.map": "/billcalc/static/js/2.6d8c3000.chunk.js.map",
+    "static/js/3.3d21d879.chunk.js": "/billcalc/static/js/3.3d21d879.chunk.js",
+    "static/js/3.3d21d879.chunk.js.map": "/billcalc/static/js/3.3d21d879.chunk.js.map",
+    "index.html": "/billcalc/index.html",
+    "static/css/main.e4de8842.chunk.css.map": "/billcalc/static/css/main.e4de8842.chunk.css.map",
+    "static/js/2.6d8c3000.chunk.js.LICENSE.txt": "/billcalc/static/js/2.6d8c3000.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.589096aa.js",
+    "static/js/2.6d8c3000.chunk.js",
+    "static/css/main.e4de8842.chunk.css",
+    "static/js/main.0f7babb9.chunk.js"
+  ]
+}
